@@ -1,3 +1,3 @@
 # Stock_price_extract
 
-Run the cript and it will get extract the realtime stock price from website
+Run the script and it will extract the realtime stock price from website
